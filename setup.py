@@ -6,6 +6,7 @@ with open('README.md', encoding='utf-8') as f:
 setup(
     name='qsim',
     version='1.0.0',
+    license='MIT'
     description='Библиотека симуляции квантовых коммуникаций (BB84 QKD) и квантовой памяти',
     long_description=long_description,
     long_description_content_type='text/markdown',
