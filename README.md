@@ -236,4 +236,4 @@ sim.run_demonstration(
 
 ## Лицензия
 
-ALGB License
+AGPL-3.0 License
