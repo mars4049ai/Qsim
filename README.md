@@ -236,4 +236,4 @@ sim.run_demonstration(
 
 ## Лицензия
 
-MIT License
+ALGB License
